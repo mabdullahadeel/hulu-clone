@@ -1,11 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './App.css';
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import Results from './Components/Results';
 import { connect } from 'react-redux'
-import * as action from './redux/actions/auth'
-
+import * as action from './redux/actions/auth';
 import endpoints from './api/request'
 
 class App extends React.Component {
@@ -14,7 +13,6 @@ class App extends React.Component {
     this.state = {
       selectedOption: endpoints.fetchTrending
     }
-
     this.setSelectedOption = this.setSelectedOption.bind(this)
   }
 

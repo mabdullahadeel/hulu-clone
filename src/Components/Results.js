@@ -20,7 +20,6 @@ function Results({ selectedOption }) {
         async function fetchData() {
             const request = await axios.get(selectedOption)
             setMovies(request.data.results)
-            console.log(request.data.results)
             // At this point, this is not confirm that the state is Updated as it is done asyncronously
             return request
         }
