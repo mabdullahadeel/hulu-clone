@@ -1,68 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hulu Clone 0.1 😁
 
-## Available Scripts
+This is a hulu clone built with react. This app has all the basic features like generas categories, with ability to watch trailers of all the available movies and shows as well as read the description.
 
-In the project directory, you can run:
+<h2> Home Screen </h2>
 
-### `npm start`
+![Home Screen](img/hulu-1.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h2> Reading Description </h2>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![Home Screen](img/hulu-2.png)
 
-### `npm test`
+<h2> Watching Trailer </h2>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Home Screen](img/hulu-3.png)
 
-### `npm run build`
+# Project Setup
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Setup Directories
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```cmd
+cd/you_desired_directory/
+mkdir any_name
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## cloning the project
 
-### `npm run eject`
+```bash
+    git clone https://github.com/mabdullahadeel/hulu-clone.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Installing dependencies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+    npm install | npm i | yarn install | yarn
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Running Project Locally
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```bash
+    npm start | yarn start
+```
