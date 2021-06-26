@@ -4,15 +4,15 @@ This is a hulu clone built with react. This app has all the basic features like 
 
 <h2> Home Screen </h2>
 
-![Home Screen](img/hulu-1.png)
+![Home Screen](img/hulu_1.PNG)
 
 <h2> Reading Description </h2>
 
-![Home Screen](img/hulu-2.png)
+![Home Screen](img/hulu_2.PNG)
 
 <h2> Watching Trailer </h2>
 
-![Home Screen](img/hulu-3.png)
+![Home Screen](img/hulu_3.PNG)
 
 # Project Setup
 
