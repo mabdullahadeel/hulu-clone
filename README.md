@@ -42,5 +42,5 @@ mkdir any_name
 ```
 
 # Demo
-- ✔ [Live Project](https://abd-upflix.web.app//)
-- ✅ https://abd-upflix.web.app/
+- ✔ [Live Project](https://abd-hulu.web.app//)
+- ✅ https://abd-hulu.web.app/
